@@ -802,7 +802,7 @@ header.show {
     white-space: nowrap;
 }
 .white nav a.actived {
-    color: #dd4425 !important;
+    color: #f9b405 !important;
 }
 .white nav ul ul {
     display: none;
